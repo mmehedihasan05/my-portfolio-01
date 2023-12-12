@@ -18,7 +18,7 @@
     --text-highlight: #ff4c60;
 
     --bg-white: #fff;
-    --bg-lite: #f9f9fe;
+    --bg-lite: #f7fbff;
 
     --banner-btn: #ff4c60;
     --banner-primary: #fff;
@@ -29,8 +29,6 @@
 
     --btn-secondary-bg: #ff4c60;
     --btn-secondary-text: #fff;
-
-    -tw-ring-color: red;
 }
 
 h1,
@@ -40,7 +38,7 @@ h4,
 h5,
 h6,
 .text-primary {
-    color: var(--text-primary);
+    /* color: var(--text-primary); */
 }
 
 .text-secondary {
