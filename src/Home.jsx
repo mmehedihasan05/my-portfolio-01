@@ -1,4 +1,5 @@
 import Banner from "./sections/Banner";
+import Contact from "./sections/Contact";
 import Nav from "./sections/Nav";
 import Projects from "./sections/Projects";
 import Skills from "./sections/Skills";
@@ -13,6 +14,7 @@ const Home = () => {
                 <Skills></Skills>
                 <Projects></Projects>
                 <Study></Study>
+                <Contact></Contact>
             </div>
         </div>
     );

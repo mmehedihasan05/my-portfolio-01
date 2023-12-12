@@ -1,6 +1,6 @@
 const Study = () => {
     return (
-        <div>
+        <div className="bg-white p-8 shadow-lg">
             <h2 className="text-4xl font-semibold  border-l-4 border-[--text-highlight] text-[--text-primary] px-2">
                 Study
             </h2>
