@@ -14,10 +14,7 @@ const Skills = () => {
             <h2 className="text-4xl font-semibold  border-l-4 border-[--text-highlight] text-[--text-primary] px-2">
                 Skills
             </h2>
-            {/* <div className="flex flex-col gap-4 w-[400px] mx-auto">
-                <img src="/src/Assets/skills 1.png" alt="" />
-                <img src="/src/Assets/skills 2.png" alt="" />
-            </div> */}
+
             <div className="space-y-4 mx-auto w-fit">
                 <div className="flex gap-8">
                     <Html5Original size="56" />
